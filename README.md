@@ -2,6 +2,12 @@
 
 > A curated list of destination guides, itineraries, and travel articles from **[Wayhours](https://wayhours.com)** — an independent, information-only travel discovery platform.
 
+<p align="center">
+  <a href="https://wayhours.com/write-for-us">
+    <img src="https://img.shields.io/badge/✍️_Write_for_Us-2563EB?style=for-the-badge&logoColor=white" alt="Write for Us">
+  </a>
+</p>
+
 ## Contents
 
 - [Destinations](#destinations)

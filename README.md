@@ -15,6 +15,7 @@
 - [Slow Travel & Stories](#slow-travel--stories)
 - [Tips & Comparisons](#tips--comparisons)
 - [Resources](#resources)
+- [Write for Us](#write-for-us)
 
 ## Destinations
 
@@ -114,4 +115,9 @@
 - [The Best Trip-Planner Websites in 2026 (and Where Wayhours Fits)](https://wayhours.com/blog/best-trip-planner-websites-2026)
 - [Trip Planner](https://wayhours.com/plan) — editable day-by-day itineraries by destination, duration, and budget
 - [Attractions](https://wayhours.com/attractions) · [Hotel Reviews](https://wayhours.com/hotels) · [Community Forum](https://wayhours.com/forum)
-- [Write for Us](https://wayhours.com/write-for-us) — travel-writing submissions welcome
+
+## Write for Us
+
+Wayhours welcomes travel-writing submissions from contributors and local experts. Share destination guides, itineraries, and first-hand stories with our readers.
+
+- **[Write for Us →](https://wayhours.com/write-for-us)** — pitch your idea and submit an article
